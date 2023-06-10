@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lost Treasure Escape Room</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div id="game-container">
+    <h1>Welcome to the Lost Treasure Escape Room!</h1>
+    <p>Can you find the hidden treasure and escape?</p>
+    <div id="room-description">
+      <!-- Display room descriptions and clues -->
+    </div>
+    <div id="user-input">
+      <!-- User input elements, e.g., text input or buttons -->
+    </div>
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
